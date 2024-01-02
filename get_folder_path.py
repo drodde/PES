@@ -1,4 +1,5 @@
 #Last edit: 02.01.2024
+#Function provides folder path as selected by pop-up window
 import os
 from tkinter import Tk, filedialog
 
