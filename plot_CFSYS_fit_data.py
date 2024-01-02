@@ -6,10 +6,10 @@ import numpy as np
 import os
 
 # Call the function to select the folder path in gui
-# folder_path = get_folder_path()
+folder_path = get_folder_path()
 
 # Or provide the folder path here
-folder_path = '/Users/dorotheemenzel/Documents/Coding/example_data/01_ProperFit_20231130'
+# folder_path = '/Users/dorotheemenzel/Documents/Coding/example_data/01_ProperFit_20231130'
 
 # Print the path to check that the right one was selected
 # print(f"Selected folder path: {folder_path}")
